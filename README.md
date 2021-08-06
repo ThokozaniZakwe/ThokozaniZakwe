@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThokozaniZakwe
 - 👀 I’m interested in Web Development in ASP.Net MVC Core
-- 🌱 I’m currently learning ASP.NET MVC Core
+- 🌱 I’m currently learning Docker and anything related to Web Development
 - 💞️ I’m looking to collaborate on Any ASP.NET MVC Core Project
 - 📫 How to reach me ...
 
